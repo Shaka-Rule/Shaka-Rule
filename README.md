@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Shaka
+- Passionate C# developer
+- Godot enthousiast
